@@ -46,7 +46,7 @@ export const Hero = () => {
             </h1>
 
             <p className="text-xl md:text-2xl text-gray-400 mb-12 max-w-lg leading-relaxed font-medium">
-              A força do motofrete paulistano unida à tecnologia. Entregamos confiança há mais de 9 anos.
+              A força do motofrete paulistano unida à tecnologia. Entregamos confiança há mais de 12 anos.
             </p>
 
             <div className="flex flex-wrap gap-5">

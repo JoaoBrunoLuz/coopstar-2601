@@ -15,7 +15,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A Coopstar Express é especialista em serviços de entregas e coletas com mais de 9 anos de experiência no mercado. Esta landing page foi refatorada para oferecer uma experiência moderna, rápida e responsiva.
+A Coopstar Express é especialista em serviços de entregas e coletas com mais de 12 anos de experiência no mercado. Esta landing page foi refatorada para oferecer uma experiência moderna, rápida e responsiva.
 
 ## 🛠️ Instalação e Execução
 
