@@ -39,4 +39,4 @@ A Coopstar Express é especialista em serviços de entregas e coletas com mais d
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-Feito com ❤️ por [Joao Bruno Luz](https://github.com/JoaoBrunoLuz)
+[Joao Bruno Luz](https://github.com/JoaoBrunoLuz)
