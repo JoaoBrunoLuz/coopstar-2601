@@ -1,5 +1,7 @@
 # Coopstar Express - Landing Page
 
+https://coopstar2601joaobruno.netlify.app/
+
 Modernização da landing page da Coopstar Express utilizando React, TypeScript e Tailwind CSS.
 
 ## 🚀 Tecnologias
