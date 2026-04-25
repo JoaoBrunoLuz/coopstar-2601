@@ -45,7 +45,7 @@ export const About = () => {
 
             {/* Experience Badge */}
             <div className="absolute -bottom-10 -right-10 z-20 bg-brand-blue p-8 rounded-3xl shadow-2xl text-white transform rotate-3">
-              <div className="text-5xl font-black">+9</div>
+              <div className="text-5xl font-black">+12</div>
               <div className="text-sm font-bold uppercase tracking-tighter leading-tight">Anos de<br/>Experiência</div>
             </div>
             {/* Decors */}
